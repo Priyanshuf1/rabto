@@ -19,7 +19,8 @@
   "interactive-3d-models": "c563adca372f900e41ec84cbc420e201cdf910e3f64b1e509656bf28f3e2ddab",
   "interactive-audio-direction": "baf10c6e6525fae700cc608e7ca08e8ee398d1b03e8302df61e01a4141c2b70d",
   "lottie-motion-graphics": "4c762f990b3bec43746dd56ec6f5822c88da979e648002535b99968053495492",
-  "modern-startup-design": "e8288a0f757dc6a6a92faad201d334d6933053f44cb0ba1d9ef265b38fe21713",
+  "modern-startup-design": "fd93ea21ef875511246fab8dd3190dacb687b8b9b2b27963eb6711dd557d8a49",
+  "motion": "c671c3cf2fdd8d5e26e119ece4cbed2a675bcee6aabb008a47b8118412214387",
   "pixijs-2d-vfx": "6bb561393fff18d940a3e2b119b9c5bf61d08e018e8882d9d82c5c422380e0aa",
   "postprocessing-and-colour-grading": "2a2b0c3ac1f3ab7d6d50721482c4075613d93763cc97ebee86783ef176d6c85f",
   "rapier-physics-integration": "f0d6ec8adfeb1f9a090cd9953106856fc8d4cd53d94a3cefd3017d88b32945ad",
@@ -32,5 +33,6 @@
   "svg-motion-graphics": "8e11cfc72e7c033b60370f376770e34e7f6be60415ad02417481e182a729b931",
   "theatrejs-camera-authoring": "1baf6dacb716cba125c8f32d963e0b92a07eb797c7fed22cfa4a62dec3ae60b2",
   "threejs-foundations": "d62161474682ddf6cdd9e60c643961977178be5141750c52642b0a3da1c05f82",
+  "ui-ux-pro-max": "c26b5cdaa06e5d990ffcec9753a5d94635fc27fafb8a6e5c2a6dc125a0f6e74a",
   "visual-browser-qa": "3646f60e417fb30c894d8a1a2e00850ca71ba68f5134f732a8d867ca09a7623f"
 }
