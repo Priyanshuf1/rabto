@@ -758,6 +758,49 @@
       "verification_required": "false",
       "last_reviewed": "2026-08-28"
     },
+    "vanilla-creative-web": {
+      "name": "vanilla-creative-web",
+      "description": "Production guide for building high-performance creative web experiences using pure Vanilla JavaScript, GSAP, Three.js, Canvas 2D, and modern CSS.",
+      "version": "1.0.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "creative-web",
+        "vanilla-js",
+        "animation",
+        "threejs",
+        "canvas"
+      ],
+      "triggers": [
+        "vanilla js",
+        "pure javascript",
+        "no framework",
+        "vanilla threejs",
+        "vanilla gsap",
+        "standalone html"
+      ],
+      "related_skills": [
+        "threejs-foundations",
+        "gsap-motion-direction",
+        "lenis-smooth-scrolling",
+        "visual-browser-qa"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "vanilla-js",
+        "gsap",
+        "threejs",
+        "lenis",
+        "canvas"
+      ],
+      "minimum_inputs": [
+        "project description or interactive requirements"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-09-04"
+    },
     "visual-browser-qa": {
       "name": "visual-browser-qa",
       "status": "EXPERIMENTAL",
@@ -780,7 +823,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-04T16:18:55.170Z",
-    "count": 39
+    "generated_at": "2026-09-04T16:36:39.175Z",
+    "count": 40
   }
 }
