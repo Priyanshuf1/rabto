@@ -39,9 +39,12 @@ function createTempRemoteRepo(): string {
   spawnSync('git', ['init'], { cwd: tmpRepo });
   spawnSync('git', ['config', 'user.name', 'test'], { cwd: tmpRepo });
   spawnSync('git', ['config', 'user.email', 'test@example.com'], { cwd: tmpRepo });
+  spawnSync('git', ['config', 'core.autocrlf', 'false'], { cwd: tmpRepo });
 
-  // Copy real skills over
-  fs.copySync(path.join(REPO_ROOT, 'skills'), path.join(tmpRepo, 'skills'));
+  // Copy real skills over (skip huge ui-ux-pro-max to keep test fixture git operations fast)
+  fs.copySync(path.join(REPO_ROOT, 'skills'), path.join(tmpRepo, 'skills'), {
+    filter: (src) => !src.includes('ui-ux-pro-max')
+  });
   fs.copySync(path.join(REPO_ROOT, 'registry'), path.join(tmpRepo, 'registry'));
   
   spawnSync('git', ['add', '.'], { cwd: tmpRepo });
@@ -94,7 +97,7 @@ describe('CLI Integration Tests (real temp directories)', () => {
     expect(fs.existsSync(skillPath)).toBe(false);
   });
 
-  it('update fetches from remote and applies cleanly (using git fixture)', () => {
+  it('update fetches from remote and applies cleanly (using git fixture)', async () => {
     // We need a remote repo
     const remoteRepo = createTempRemoteRepo();
     
@@ -105,12 +108,12 @@ describe('CLI Integration Tests (real temp directories)', () => {
     const targetSkill = path.join(remoteRepo, 'skills', 'threejs-foundations');
     fs.appendFileSync(path.join(targetSkill, 'SKILL.md'), '\nUPSTREAM UPDATE');
     
-    // Regenerate checksums in the remote repo using the official script
-    spawnSync('node', ['scripts/generate-checksums.mjs'], { cwd: remoteRepo });
-    
+    // Regenerate checksums in the remote repo
+    const newHash = await computeDirectoryChecksum(targetSkill);
     const checksumsPath = path.join(remoteRepo, 'registry', 'checksums.json');
     const checksums = fs.readJsonSync(checksumsPath);
-    const newHash = checksums['threejs-foundations'];
+    checksums['threejs-foundations'] = newHash;
+    fs.writeJsonSync(checksumsPath, checksums);
     
     spawnSync('git', ['add', '.'], { cwd: remoteRepo });
     spawnSync('git', ['commit', '-m', 'update'], { cwd: remoteRepo });
@@ -126,7 +129,7 @@ describe('CLI Integration Tests (real temp directories)', () => {
     const manifestPath = path.join(tmpDir, '.agents', 'skills', '.rabto-manifest.json');
     const manifestNew = fs.readJsonSync(manifestPath);
     expect(manifestNew.installed['threejs-foundations'].installedSourceHash).toBe(newHash);
-  });
+  }, 20000);
 
   it('update rejects mismatched checksums from upstream', () => {
     const remoteRepo = createTempRemoteRepo();
@@ -147,7 +150,7 @@ describe('CLI Integration Tests (real temp directories)', () => {
     
     expect(r.status).not.toBe(0);
     expect(r.stderr).toContain('Checksum mismatch');
-  });
+  }, 20000);
 
   it('update refuses to overwrite a locally modified skill without --force', async () => {
     const remoteRepo = createTempRemoteRepo();
@@ -177,7 +180,7 @@ describe('CLI Integration Tests (real temp directories)', () => {
     
     expect(r.status).not.toBe(0);
     expect(r.stderr).toContain('modified locally');
-  });
+  }, 20000);
 
   it('update handles HTTP/git failure gracefully (offline test)', () => {
     cli(['install', '--skills', 'threejs-foundations'], {}, tmpDir);

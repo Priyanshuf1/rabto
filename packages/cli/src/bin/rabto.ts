@@ -337,7 +337,7 @@ program
     const cloneDir = fs.mkdtempSync(path.join(os.tmpdir(), 'rabto-clone-'));
     
     console.log(`Fetching updates from ${remoteRepo}...`);
-    const r = spawnSync('git', ['clone', '--depth', '1', remoteRepo, cloneDir]);
+    const r = spawnSync('git', ['clone', '--depth', '1', '-c', 'core.autocrlf=false', remoteRepo, cloneDir]);
     if (r.status !== 0) {
       console.error('Update failed: Could not fetch from remote repo.');
       await fs.remove(cloneDir);

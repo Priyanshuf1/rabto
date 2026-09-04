@@ -7,7 +7,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Ensures animations respect user preferences (prefers-reduced-motion) and are keyboard accessible. Activate on every interactive project."
+      "description": "Ensures animations respect user preferences (prefers-reduced-motion) and are keyboard accessible. Activate on every interactive project.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "anime-cel-shading": {
       "name": "anime-cel-shading",
@@ -16,7 +25,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Implements toon/cel shading materials for 3D models. Activate when aiming for a stylized, non-photorealistic 3D look."
+      "description": "Implements toon/cel shading materials for 3D models. Activate when aiming for a stylized, non-photorealistic 3D look.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "anime-impact-frame-system": {
       "name": "anime-impact-frame-system",
@@ -25,7 +43,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Implements high-contrast, brief flash frames to emphasize powerful animations. Activate to add 'punch' to significant interactions."
+      "description": "Implements high-contrast, brief flash frames to emphasize powerful animations. Activate to add 'punch' to significant interactions.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "anime-motion-principles": {
       "name": "anime-motion-principles",
@@ -34,7 +61,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Applies traditional anime timing, spacing, and anticipation to web elements. Activate when creating energetic, stylized UI motion."
+      "description": "Applies traditional anime timing, spacing, and anticipation to web elements. Activate when creating energetic, stylized UI motion.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "anime-particle-systems": {
       "name": "anime-particle-systems",
@@ -43,7 +79,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Creates stylized particle emissions like sparks, cherry blossoms, or energy dust. Activate when generating 2D or 3D particle bursts."
+      "description": "Creates stylized particle emissions like sparks, cherry blossoms, or energy dust. Activate when generating 2D or 3D particle bursts.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "anime-title-impact-animation": {
       "name": "anime-title-impact-animation",
@@ -52,7 +97,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Creates dramatic, large-scale title reveals with screen shake or impact frames. Activate for hero section typographic impacts."
+      "description": "Creates dramatic, large-scale title reveals with screen shake or impact frames. Activate for hero section typographic impacts.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "background-aware-contrast-compositing": {
       "name": "background-aware-contrast-compositing",
@@ -61,7 +115,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Ensures text and UI elements remain legible over dynamic, moving, or 3D backgrounds. Activate when placing content over video or WebGL canvases."
+      "description": "Ensures text and UI elements remain legible over dynamic, moving, or 3D backgrounds. Activate when placing content over video or WebGL canvases.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "cinematic-camera-direction": {
       "name": "cinematic-camera-direction",
@@ -70,7 +133,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Controls 3D camera movement, framing, and transitions. Activate when animating camera paths or interpolating views."
+      "description": "Controls 3D camera movement, framing, and transitions. Activate when animating camera paths or interpolating views.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "cinematic-web-typography": {
       "name": "cinematic-web-typography",
@@ -79,7 +151,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Implements high-end typographic scales, pairings, and layout for web. Activate when styling text elements for a cinematic or editorial feel."
+      "description": "Implements high-end typographic scales, pairings, and layout for web. Activate when styling text elements for a cinematic or editorial feel.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "creative-web-art-direction": {
       "name": "creative-web-art-direction",
@@ -88,7 +169,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Guides overall visual direction, color harmony, and mood for premium web experiences. Activate when establishing the initial design system or visual theme."
+      "description": "Guides overall visual direction, color harmony, and mood for premium web experiences. Activate when establishing the initial design system or visual theme.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "creative-web-skill-maintenance": {
       "name": "creative-web-skill-maintenance",
@@ -97,7 +187,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Guidelines for updating and expanding this very skill library. Activate when authoring new skills."
+      "description": "Guidelines for updating and expanding this very skill library. Activate when authoring new skills.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "energy-slash-and-trail-effects": {
       "name": "energy-slash-and-trail-effects",
@@ -106,7 +205,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Implements motion trails, slashes, and speed lines. Activate for dynamic swipe or movement trails."
+      "description": "Implements motion trails, slashes, and speed lines. Activate for dynamic swipe or movement trails.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "foreground-occlusion-compositing": {
       "name": "foreground-occlusion-compositing",
@@ -115,7 +223,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Integrates foreground DOM elements seamlessly with background 3D or video scenes to create depth. Activate when layering UI with 3D."
+      "description": "Integrates foreground DOM elements seamlessly with background 3D or video scenes to create depth. Activate when layering UI with 3D.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "glsl-shader-effects": {
       "name": "glsl-shader-effects",
@@ -124,7 +241,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Authors custom vertex and fragment shaders for unique materials and distortions. Activate when standard 3D materials are insufficient."
+      "description": "Authors custom vertex and fragment shaders for unique materials and distortions. Activate when standard 3D materials are insufficient.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "gltf-asset-optimization": {
       "name": "gltf-asset-optimization",
@@ -133,7 +259,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Compresses and optimizes 3D assets for fast web delivery. Activate before deploying heavy 3D models."
+      "description": "Compresses and optimizes 3D assets for fast web delivery. Activate before deploying heavy 3D models.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "gsap-motion-direction": {
       "name": "gsap-motion-direction",
@@ -142,7 +277,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Orchestrates complex UI animations, layout transitions, and timeline sequences. Activate when building multi-step animations or interactive UI motion."
+      "description": "Orchestrates complex UI animations, layout transitions, and timeline sequences. Activate when building multi-step animations or interactive UI motion.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "gsap-splittext-choreography": {
       "name": "gsap-splittext-choreography",
@@ -151,7 +295,54 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Creates intricate text reveal and typographic animations. Activate when animating individual words, lines, or characters of text."
+      "description": "Creates intricate text reveal and typographic animations. Activate when animating individual words, lines, or characters of text.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
+    },
+    "gsap-word-reveal": {
+      "name": "gsap-word-reveal",
+      "status": "EXPERIMENTAL",
+      "version": "0.1.0",
+      "categories": [
+        "creative-web"
+      ],
+      "description": "Implements word-by-word text reveal animations using vanilla JavaScript string-splitting and GSAP ScrollTrigger (without requiring premium SplitText).",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-08-30"
+    },
+    "instagram-feed-integration": {
+      "name": "instagram-feed-integration",
+      "status": "EXPERIMENTAL",
+      "version": "0.1.0",
+      "categories": [
+        "creative-web"
+      ],
+      "description": "Integrates dynamic Instagram feeds using high-performance Elfsight platform endpoints, avoiding custom script bloat or heavy client-side API polling.",
+      "triggers": "",
+      "related_skills": [
+        ""
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-08-30"
     },
     "interactive-3d-models": {
       "name": "interactive-3d-models",
@@ -160,7 +351,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Handles loading, playing animations, and interacting with 3D models (glTF). Activate when incorporating external 3D assets."
+      "description": "Handles loading, playing animations, and interacting with 3D models (glTF). Activate when incorporating external 3D assets.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "interactive-audio-direction": {
       "name": "interactive-audio-direction",
@@ -169,7 +369,56 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Manages web audio, sound effects, and spatial audio tied to interactions. Activate when adding auditory feedback to UI or 3D."
+      "description": "Manages web audio, sound effects, and spatial audio tied to interactions. Activate when adding auditory feedback to UI or 3D.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
+    },
+    "lets-scroll": {
+      "name": "lets-scroll",
+      "description": "Build an immersive scroll-scrubbed fly-through landing page with seamless camera flights and AI-generated scenes.",
+      "version": "0.8.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "cinematic-scroll",
+        "creative-web",
+        "video-scroll",
+        "3d-world"
+      ],
+      "triggers": [
+        "scroll cinematic",
+        "fly through landing page",
+        "diorama landing",
+        "seamless camera flight",
+        "lets-scroll"
+      ],
+      "related_skills": [
+        "cinematic-frame-sequence-scroll",
+        "scroll-video-and-frame-sequences",
+        "single-viewport-scroll-storytelling"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "vanilla-js",
+        "ffmpeg",
+        "monid",
+        "higgsfield"
+      ],
+      "minimum_inputs": [
+        "topic or industry",
+        "scene beats"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-09-04"
     },
     "lottie-motion-graphics": {
       "name": "lottie-motion-graphics",
@@ -178,7 +427,85 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Implements After Effects exported animations using Lottie. Activate for pre-rendered vector animations without complex state."
+      "description": "Implements After Effects exported animations using Lottie. Activate for pre-rendered vector animations without complex state.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
+    },
+    "modern-startup-design": {
+      "name": "modern-startup-design",
+      "description": "Complete playbook for replicating the modern B2B/SaaS startup landing page aesthetic and structure.",
+      "version": "1.0.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "ui",
+        "design",
+        "startup"
+      ],
+      "triggers": [
+        "build a SaaS landing page",
+        "modern startup design",
+        "b2b saas website"
+      ],
+      "related_skills": [
+        "creative-web-art-direction",
+        "cinematic-web-typography"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "minimum_inputs": [
+        "project description",
+        "target audience"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-08-17"
+    },
+    "motion": {
+      "name": "motion",
+      "description": "Motion (formerly Framer Motion) is a production-ready motion library for React and vanilla JavaScript, used for standard component animations, layout changes, and UI transitions.",
+      "version": "1.0.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "animation",
+        "motion",
+        "ui"
+      ],
+      "triggers": [
+        "animate UI components",
+        "layout transition",
+        "Framer Motion",
+        "smooth transitions"
+      ],
+      "related_skills": [
+        "gsap-motion-direction",
+        "accessibility-for-motion"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "framer-motion",
+        "react"
+      ],
+      "minimum_inputs": [
+        "react components to animate"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-08-28"
     },
     "pixijs-2d-vfx": {
       "name": "pixijs-2d-vfx",
@@ -187,7 +514,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Utilizes PixiJS for high-performance 2D WebGL effects like displacement maps or sprite particles. Activate for 2D WebGL VFX."
+      "description": "Utilizes PixiJS for high-performance 2D WebGL effects like displacement maps or sprite particles. Activate for 2D WebGL VFX.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "postprocessing-and-colour-grading": {
       "name": "postprocessing-and-colour-grading",
@@ -196,7 +532,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Applies full-screen WebGL effects like bloom, depth of field, and color correction. Activate to enhance 3D scene visual quality."
+      "description": "Applies full-screen WebGL effects like bloom, depth of field, and color correction. Activate to enhance 3D scene visual quality.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "rapier-physics-integration": {
       "name": "rapier-physics-integration",
@@ -205,7 +550,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Adds rigid body physics simulations to 3D scenes. Activate when objects need gravity, collisions, or realistic interaction."
+      "description": "Adds rigid body physics simulations to 3D scenes. Activate when objects need gravity, collisions, or realistic interaction.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "react-three-fiber-cinematic-scenes": {
       "name": "react-three-fiber-cinematic-scenes",
@@ -214,7 +568,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Builds declarative 3D scenes using R3F. Activate when integrating Three.js within a React application."
+      "description": "Builds declarative 3D scenes using R3F. Activate when integrating Three.js within a React application.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "responsive-scene-composition": {
       "name": "responsive-scene-composition",
@@ -223,7 +586,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Handles layout and positioning of 3D and 2D elements across different screen sizes. Activate when ensuring a scene looks good on both desktop and mobile."
+      "description": "Handles layout and positioning of 3D and 2D elements across different screen sizes. Activate when ensuring a scene looks good on both desktop and mobile.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "responsive-vfx-performance": {
       "name": "responsive-vfx-performance",
@@ -232,7 +604,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Manages pixel ratio, asset LOD, and effect toggling based on device capabilities. Activate to ensure smooth frame rates."
+      "description": "Manages pixel ratio, asset LOD, and effect toggling based on device capabilities. Activate to ensure smooth frame rates.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "rive-interactive-vector-graphics": {
       "name": "rive-interactive-vector-graphics",
@@ -241,7 +622,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Integrates Rive state machines for interactive vector animations. Activate for complex, state-driven 2D illustrations."
+      "description": "Integrates Rive state machines for interactive vector animations. Activate for complex, state-driven 2D illustrations.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "scroll-video-and-frame-sequences": {
       "name": "scroll-video-and-frame-sequences",
@@ -250,7 +640,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Synchronizes video playback or image sequence drawing with scroll position. Activate when scrub-animating media sequences."
+      "description": "Synchronizes video playback or image sequence drawing with scroll position. Activate when scrub-animating media sequences.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "single-viewport-scroll-storytelling": {
       "name": "single-viewport-scroll-storytelling",
@@ -259,7 +658,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Builds immersive scroll-driven experiences that feel pinned or fixed. Activate when user scroll controls timeline progress rather than native scrolling."
+      "description": "Builds immersive scroll-driven experiences that feel pinned or fixed. Activate when user scroll controls timeline progress rather than native scrolling.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "svg-motion-graphics": {
       "name": "svg-motion-graphics",
@@ -268,7 +676,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Animates vector graphics for loaders, icons, and illustrations. Activate when drawing SVG paths or morphing shapes."
+      "description": "Animates vector graphics for loaders, icons, and illustrations. Activate when drawing SVG paths or morphing shapes.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "theatrejs-camera-authoring": {
       "name": "theatrejs-camera-authoring",
@@ -277,7 +694,16 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Uses Theatre.js for visual timeline keyframing of 3D objects and cameras. Activate when visual keyframing is required for cinematic sequences."
+      "description": "Uses Theatre.js for visual timeline keyframing of 3D objects and cameras. Activate when visual keyframing is required for cinematic sequences.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     },
     "threejs-foundations": {
       "name": "threejs-foundations",
@@ -286,7 +712,51 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Handles core Three.js setup including scene, renderer, and basic lighting. Activate when establishing a vanilla Three.js environment."
+      "description": "Handles core Three.js setup including scene, renderer, and basic lighting. Activate when establishing a vanilla Three.js environment.",
+      "triggers": "",
+      "related_skills": "",
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
+    },
+    "ui-ux-pro-max": {
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+      "version": "2.13.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "ui",
+        "ux",
+        "design"
+      ],
+      "triggers": [
+        "UI/UX design",
+        "spacing guidelines",
+        "accessibility checks",
+        "design styles"
+      ],
+      "related_skills": [
+        "creative-web-art-direction",
+        "cinematic-web-typography"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "minimum_inputs": [
+        "ui description"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-08-28"
     },
     "visual-browser-qa": {
       "name": "visual-browser-qa",
@@ -295,11 +765,22 @@
       "categories": [
         "creative-web"
       ],
-      "description": "Checklist and procedures for cross-browser visual verification of WebGL and advanced CSS. Activate before finalizing a feature."
+      "description": "Checklist and procedures for cross-browser visual verification of WebGL and advanced CSS. Activate before finalizing a feature.",
+      "triggers": "",
+      "related_skills": [
+        ""
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": "",
+      "minimum_inputs": "",
+      "verification_required": "true",
+      "last_reviewed": "2026-07-17"
     }
   },
   "metadata": {
-    "generated_at": "2026-07-17T13:02:35.316Z",
-    "count": 33
+    "generated_at": "2026-09-04T16:18:55.170Z",
+    "count": 39
   }
 }
