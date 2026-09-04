@@ -651,6 +651,48 @@
       "verification_required": "true",
       "last_reviewed": "2026-07-17"
     },
+    "scroll-world": {
+      "name": "scroll-world",
+      "description": "Build an immersive scroll-scrubbed fly-through landing page with seamless AI camera flights and diorama scenes.",
+      "version": "1.0.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "cinematic-scroll",
+        "creative-web",
+        "video-scroll",
+        "3d-world"
+      ],
+      "triggers": [
+        "scroll world",
+        "fly through landing page",
+        "diorama landing",
+        "seamless camera flight",
+        "scroll-world"
+      ],
+      "related_skills": [
+        "lets-scroll",
+        "cinematic-frame-sequence-scroll",
+        "scroll-video-and-frame-sequences",
+        "single-viewport-scroll-storytelling",
+        "vanilla-creative-web"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "vanilla-js",
+        "ffmpeg",
+        "monid",
+        "higgsfield"
+      ],
+      "minimum_inputs": [
+        "topic or industry",
+        "scene beats"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-09-04"
+    },
     "single-viewport-scroll-storytelling": {
       "name": "single-viewport-scroll-storytelling",
       "status": "EXPERIMENTAL",
@@ -823,7 +865,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-04T16:36:39.175Z",
-    "count": 40
+    "generated_at": "2026-09-04T16:41:17.849Z",
+    "count": 41
   }
 }
