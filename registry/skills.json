@@ -198,6 +198,47 @@
       "verification_required": "true",
       "last_reviewed": "2026-07-17"
     },
+    "cursor-spotlight-reveal": {
+      "name": "cursor-spotlight-reveal",
+      "description": "Build dual-layer cursor spotlight and torch mask reveal interactions where hovering or touch reveals an alternate registered scene or interior X-ray.",
+      "version": "1.0.0",
+      "owner": "rabto",
+      "status": "active",
+      "categories": [
+        "creative-web",
+        "cursor-fx",
+        "cinematic-ui",
+        "interactive-mask"
+      ],
+      "triggers": [
+        "spotlight reveal",
+        "cursor flashlight",
+        "dual layer image reveal",
+        "x-ray hover effect",
+        "mask-image reveal"
+      ],
+      "related_skills": [
+        "vanilla-creative-web",
+        "global-logic-media-builder",
+        "resq-one-parallax-website-builder",
+        "single-viewport-scroll-storytelling"
+      ],
+      "conflicting_skills": [
+        ""
+      ],
+      "primary_tools": [
+        "css-mask-image",
+        "vanilla-js",
+        "radial-gradient",
+        "image-generation"
+      ],
+      "minimum_inputs": [
+        "base image",
+        "reveal image"
+      ],
+      "verification_required": "false",
+      "last_reviewed": "2026-09-05"
+    },
     "energy-slash-and-trail-effects": {
       "name": "energy-slash-and-trail-effects",
       "status": "EXPERIMENTAL",
@@ -865,7 +906,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-04T16:41:17.849Z",
-    "count": 41
+    "generated_at": "2026-09-05T08:20:17.330Z",
+    "count": 42
   }
 }
